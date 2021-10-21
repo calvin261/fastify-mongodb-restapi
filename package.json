@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^3.22.1",
+    "fastify-swagger": "^4.12.5",
+    "mongoose": "^6.0.11"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
